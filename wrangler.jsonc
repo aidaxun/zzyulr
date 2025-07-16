@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "zzyulr",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openapi-template",
+      "database_id": "b98b7e3b-55ea-4ec6-aaef-2f4f2d33b39e"
+    }
+  ]
+}
